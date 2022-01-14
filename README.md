@@ -1,7 +1,5 @@
 # Time_Yamyam
 
-2 weeks FE projects - app for organizing study group
-
 ## 기획 의도
 
 - 네카라쿠배과정을 겪으며 스터디 그룹이 많이 생성되었습니다. 이 때, 구두로 스터디 권유를 하는 것이 불편하다고 느껴 이 스터디 그룹 앱/웹을 만들기로 결정했습니다.
